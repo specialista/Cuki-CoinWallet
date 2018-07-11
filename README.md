@@ -16,4 +16,8 @@ cd MicroCoinWallet
 git submodule init
 git submodule update
 lazbuild ./MicroCoinWallet.lpi
+
+
+én is teszt és tanulság  miatt forkoltam
+ sok sikert 
 ```
